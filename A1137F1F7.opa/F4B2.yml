@@ -1,0 +1,30 @@
+segment_sources:
+  I99EDE6C1:
+    type: origin_type
+    relation: translation
+    base: AC94
+    lang: en
+  I20D67A07:
+    type: origin_type
+    relation: translation
+    base: '4309'
+    lang: bo
+segment_pairs:
+  471889d50e0a4c488accf5636d0c89a8:
+    I99EDE6C1: 63c5cd1050bb4afeb0a1b36dd1b1dd15
+    I20D67A07: 4014033f06174a23a8a00f37c63af93e
+  87103434f68249d6acae318b79af0a7c:
+    I99EDE6C1: 063749691ef84c6d9878927efc4764fe
+    I20D67A07: a049df95fab746078d868ec7c9054e5f
+  8e77fad84f5a46c798d4dddc8038530b:
+    I99EDE6C1: b16ca6d08ab749209e16e64dd091bde0
+    I20D67A07: e5fa2e2376e046129f832ef3d32800e5
+  eea3f35142cb4e7b91cccc37b59ea0ca:
+    I99EDE6C1: bd6dda7ee02b439996bbc97b025f5e32
+    I20D67A07: ea1f85d8f2de4a1984cea0cda2d40bd5
+  e81c597155a648c4aa67f603d3a1e2b8:
+    I99EDE6C1: 5dd26c299d154a4b9cec35552ed011d3
+    I20D67A07: bc50537adce844eaa9373238a5bd7b0e
+  f120104aff2f47b2b8fb077da4d2899c:
+    I99EDE6C1: 05468f153cca490bba95d74a838d2504
+    I20D67A07: f66b8145458548928e03f66c0efc8911
